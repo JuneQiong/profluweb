@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 05 19:17:44 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0166-e397-bd60-000005833fb8 
+on database directory memory:D:\lxqworkspace\profluweb\testdb with class loader sun.misc.Launcher$ExtClassLoader@442d9b6e 
+Loaded from file:/D:/developtool/Java/jdk1.8.0_66/jre/lib/ext/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=D:\lxqworkspace\profluweb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
